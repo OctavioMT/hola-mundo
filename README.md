@@ -1,4 +1,4 @@
 # hola-mundo
-mi primer repositorio 
+segundo repositorio 
 autor: Octavio Morales
 fecha:06/02/2022
